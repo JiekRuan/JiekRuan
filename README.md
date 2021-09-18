@@ -1,6 +1,6 @@
 ### Hi there 👋, Jiek Ruan 
 #### Web Developement 
-![Web Developement ](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![Web Developement ](https://pbs.twimg.com/profile_banners/759715349893750784/1632004739/1500x500)
 
 type here about you
 
