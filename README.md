@@ -1,12 +1,12 @@
 ### Hi there 👋, Jiek Ruan 
-#### Web Developement 
+#### Data Analyst
 ![Web Developement ](https://pbs.twimg.com/profile_banners/759715349893750784/1632004739/1500x500)
 
 type here about you
 
-Skills: VUE JS / JS / HTML / CSS / POSTGRESQL 
+Skills: VUE JS / JS / POSTGRESQL / Python / Power BI
 
-- 🌱 I’m currently learning JavaScript for Vue JS 
+- 🌱 I’m currently learning Python for machine learning and learn how to make good data visuals
 - 💬 Ask me about my dream and my future 
 - 📫 How to reach me: @ruanjiek2001@gmail.com 
 - ⚡ Fun fact: Jiek is for Jack 
